@@ -17,8 +17,8 @@ export class AppComponent {
   producto = [
     {
     id:0,
-    nombre:"Nombre",
-    precio:"Precio",
+    nombre:"Producto",
+    precio:"0",
     // imagen:"imagen"
     }
   ]
